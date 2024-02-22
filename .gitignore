@@ -1,3 +1,6 @@
-data/
-results/
-models/
+!data/
+data/*
+!results/
+results/*
+!models/
+models/*
