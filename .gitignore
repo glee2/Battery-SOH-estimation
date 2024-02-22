@@ -1,6 +1,6 @@
-!data/
+!data
 data/*
-!results/
+!results
 results/*
-!models/
+!models
 models/*
