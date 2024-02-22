@@ -1,6 +1,6 @@
+data/**/*
 !data/.gitkeep
-data/*.txt
-/results/
+results/**/*
 !results/.gitkeep
-models/*
+models/**/*
 !models/.gitkeep
